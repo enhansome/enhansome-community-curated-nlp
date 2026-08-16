@@ -15,7 +15,7 @@
   * [Festival](http://www.cstr.ed.ac.uk/projects/festival/)
   * [HTS](http://hts.sp.nitech.ac.jp)
   * [eSpeak](http://espeak.sourceforge.net)
-  * [Covarep](https://github.com/covarep/covarep) ⭐ 380 | 🐛 13 | 🌐 MATLAB | 📅 2020-07-27
+  * [Covarep](https://github.com/covarep/covarep) ⭐ 381 | 🐛 13 | 🌐 MATLAB | 📅 2020-07-27
   * [Free TTS](http://freetts.sourceforge.net/docs/index.php)
   * [Ekho](https://sites.google.com/site/readtextextension/home/announcements/ekho)
 
@@ -29,7 +29,7 @@
 
 # Text NLP Suites
 
-* [NLTK](https://github.com/nltk/nltk) ⭐ 14,693 | 🐛 228 | 🌐 Python | 📅 2026-08-14
+* [NLTK](https://github.com/nltk/nltk) ⭐ 14,694 | 🐛 225 | 🌐 Python | 📅 2026-08-15
 * [CogComp's NLP libraries](https://github.com/CogComp/cogcomp-nlp) ⭐ 479 | 🐛 200 | 🌐 Java | 📅 2023-07-07
 * [PyNLPl](https://github.com/proycon/pynlpl/) ⭐ 476 | 🐛 3 | 🌐 Python | 📅 2023-09-14
 * [Gensim](https://radimrehurek.com/gensim/)
@@ -204,7 +204,7 @@ The *deep* here isn't *"deep learing"* deep ;P , see <https://en.wikipedia.org/w
 
 **Dataset Lists**
 
-* @niderhoff [NLP Datasets](https://github.com/niderhoff/nlp-datasets) ⭐ 5,992 | 🐛 12 | 📅 2023-02-15
+* @niderhoff [NLP Datasets](https://github.com/niderhoff/nlp-datasets) ⭐ 5,993 | 🐛 12 | 📅 2023-02-15
 * @karthikncode [NLP Datasets](https://github.com/karthikncode/nlp-datasets) ⭐ 918 | 🐛 5 | 📅 2020-01-04
 
 # See Also
@@ -218,4 +218,4 @@ The *deep* here isn't *"deep learing"* deep ;P , see <https://en.wikipedia.org/w
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
