@@ -29,7 +29,7 @@
 
 # Text NLP Suites
 
-* [NLTK](https://github.com/nltk/nltk) ⭐ 14,697 | 🐛 227 | 🌐 Python | 📅 2026-08-18
+* [NLTK](https://github.com/nltk/nltk) ⭐ 14,698 | 🐛 227 | 🌐 Python | 📅 2026-08-19
 * [CogComp's NLP libraries](https://github.com/CogComp/cogcomp-nlp) ⭐ 479 | 🐛 200 | 🌐 Java | 📅 2023-07-07
 * [PyNLPl](https://github.com/proycon/pynlpl/) ⭐ 476 | 🐛 3 | 🌐 Python | 📅 2023-09-14
 * [Gensim](https://radimrehurek.com/gensim/)
@@ -194,7 +194,7 @@ The *deep* here isn't *"deep learing"* deep ;P , see <https://en.wikipedia.org/w
 
 # List of Lists of NLP Resources/Tools
 
-* [Awesome NLP](https://github.com/keon/awesome-nlp) ⭐ 18,905 | 🐛 9 | 📅 2026-07-11 (The original one, curated by @keon and @outpark)
+* [Awesome NLP](https://github.com/keon/awesome-nlp) ⭐ 18,907 | 🐛 8 | 📅 2026-08-18 (The original one, curated by @keon and @outpark)
 * [Ruby NLP Resources/Tools](https://github.com/diasks2/ruby-nlp) ⭐ 1,285 | 🐛 2 | 📅 2023-03-05
 * [Repo tagged with `nlp` on Github.com](https://github.com/search?q=topic%3Anlp\&type=Repositories)
 * [Java or Python for NLP?](http://stackoverflow.com/questions/22904025/java-or-python-for-natural-language-processing)
@@ -204,7 +204,7 @@ The *deep* here isn't *"deep learing"* deep ;P , see <https://en.wikipedia.org/w
 
 **Dataset Lists**
 
-* @niderhoff [NLP Datasets](https://github.com/niderhoff/nlp-datasets) ⭐ 5,993 | 🐛 12 | 📅 2023-02-15
+* @niderhoff [NLP Datasets](https://github.com/niderhoff/nlp-datasets) ⭐ 5,995 | 🐛 12 | 📅 2023-02-15
 * @karthikncode [NLP Datasets](https://github.com/karthikncode/nlp-datasets) ⭐ 917 | 🐛 5 | 📅 2020-01-04
 
 # See Also
@@ -218,4 +218,4 @@ The *deep* here isn't *"deep learing"* deep ;P , see <https://en.wikipedia.org/w
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
