@@ -1,8 +1,567 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "NLTK",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 299862,
+            "language": "Python",
+            "last_commit": "2026-08-19T02:17:53Z",
+            "owner": "nltk",
+            "repo": "nltk",
+            "stars": 14698
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CogComp's NLP libraries",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 44465166,
+            "language": "Java",
+            "last_commit": "2023-07-07T21:55:54Z",
+            "owner": "CogComp",
+            "repo": "cogcomp-nlp",
+            "stars": 479
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyNLPl",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 759484,
+            "language": "Python",
+            "last_commit": "2023-09-14T12:24:10Z",
+            "owner": "proycon",
+            "repo": "pynlpl",
+            "stars": 476
+          }
+        }
+      ],
+      "title": "Text NLP Suites"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Chinese",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SnowNLP",
+              "description": "Simplified Chinese Text Processing",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14715502,
+                "language": "Python",
+                "last_commit": "2020-01-19T02:39:05Z",
+                "owner": "isnowfy",
+                "repo": "snownlp",
+                "stars": 6633
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Persian",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Hazm",
+              "description": "Python library for digesting Persian text.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 13956112,
+                "language": "Python",
+                "last_commit": "2026-04-01T18:55:05Z",
+                "owner": "roshan-research",
+                "repo": "hazm",
+                "stars": 1417
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Language Specific Text NLP Suites"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Stemming",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SerbianStemmer",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35212845,
+                "language": "Python",
+                "last_commit": "2020-09-06T13:56:30Z",
+                "owner": "nikolamilosevic86",
+                "repo": "SerbianStemmer",
+                "stars": 18
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Tokenizers",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Toktok",
+              "description": "A fast, simple, multilingual tokenizer",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 31475681,
+                "language": "Python",
+                "last_commit": "2017-05-24T18:48:00Z",
+                "owner": "jonsafari",
+                "repo": "tok-tok",
+                "stars": 29
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Pre-processing (Tokenization / Stemming / POS Tagging / etc.)"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Affective Tweets",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 72379277,
+            "language": "Java",
+            "last_commit": "2025-06-06T01:10:50Z",
+            "owner": "felipebravom",
+            "repo": "AffectiveTweets",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyTweet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 5013893,
+            "language": "Python",
+            "last_commit": "2012-07-13T03:48:18Z",
+            "owner": "Reflejo",
+            "repo": "pytweet",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Twitter"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Entity Linking / Relation Extraction",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "KNEWS",
+              "description": "Knowledge Extraction With Semantics",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45027816,
+                "language": "C",
+                "last_commit": "2022-12-08T10:53:32Z",
+                "owner": "valeriobasile",
+                "repo": "learningbyreading",
+                "stars": 86
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Coreference",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Berkley Coreference Error Analyser",
+              "description": "A tool for classifying errors in coreference resolution",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 40446442,
+                "language": "Python",
+                "last_commit": "2023-06-27T03:05:03Z",
+                "owner": "jkkummerfeld",
+                "repo": "berkeley-coreference-analyser",
+                "stars": 29
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Parsing",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Berkley Parse Error Analyser",
+              "description": "A tool for classifying mistakes in the output of parsers",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 40446455,
+                "language": "Python",
+                "last_commit": "2023-06-27T03:02:09Z",
+                "owner": "jkkummerfeld",
+                "repo": "berkeley-parser-analyser",
+                "stars": 40
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Task Specific"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Neural MT",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Google Seq2Seq",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 83732806,
+                "language": "Python",
+                "last_commit": "2020-10-15T08:00:39Z",
+                "owner": "google",
+                "repo": "seq2seq",
+                "stars": 5619
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Amunmt",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 56228491,
+                "language": "C++",
+                "last_commit": "2023-08-25T22:31:09Z",
+                "owner": "marian-nmt",
+                "repo": "marian",
+                "stars": 1466
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Eske Seq2seq",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 53953906,
+                "language": "Python",
+                "last_commit": "2019-05-09T09:06:10Z",
+                "owner": "alex-berard",
+                "repo": "seq2seq",
+                "stars": 388
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "MT List of lists",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "@jonsafari A list of Neural MT implementations",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 67118710,
+                "language": null,
+                "last_commit": "2022-07-27T04:23:42Z",
+                "owner": "jonsafari",
+                "repo": "nmt-list",
+                "stars": 364
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Machine Translation"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Annotation Platforms",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "FLAT",
+              "description": "FoLiA Linguistic Annotation Tool",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15584383,
+                "language": "JavaScript",
+                "last_commit": "2025-01-24T15:47:58Z",
+                "owner": "proycon",
+                "repo": "flat",
+                "stars": 113
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Annotation Toools",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "TableAnnotator",
+              "description": "and TabInOut",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 18963161,
+                "language": "Java",
+                "last_commit": "2017-08-07T11:35:49Z",
+                "owner": "nikolamilosevic86",
+                "repo": "TableDisentangler",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Marvin",
+              "description": "Semantic text annotation tools using Wordnet and DBPedia",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 36808326,
+                "language": "Java",
+                "last_commit": "2017-12-14T12:49:40Z",
+                "owner": "nikolamilosevic86",
+                "repo": "Marvin",
+                "stars": 14
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Annotation Related"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Author Attribution",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Java Graphical Authorship Attribution Program",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2344488,
+                "language": "Java",
+                "last_commit": "2026-03-18T19:40:06Z",
+                "owner": "evllabs",
+                "repo": "JGAAP",
+                "stars": 283
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Orthography",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Gecco",
+              "description": "Generic Environment for Context-Aware Correction of Orthography",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 28971190,
+                "language": "Python",
+                "last_commit": "2022-09-07T12:27:37Z",
+                "owner": "proycon",
+                "repo": "gecco",
+                "stars": 24
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Charguana",
+              "description": "Character Vomitting for CJK Unicode",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 73774282,
+                "language": "Python",
+                "last_commit": "2026-04-17T12:20:13Z",
+                "owner": "alvations",
+                "repo": "charguana",
+                "stars": 10
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "NLP API / Workflow",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "LuigiNLP",
+              "description": "Experimental NLP Pipeline system built on top of SciLuigi",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 58048606,
+                "language": "Python",
+                "last_commit": "2019-10-17T14:26:11Z",
+                "owner": "LanguageMachines",
+                "repo": "LuigiNLP",
+                "stars": 21
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Others"
+    },
+    {
+      "description": "Dataset Lists",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome NLP",
+          "description": "(The original one, curated by @keon and @outpark)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 47184304,
+            "language": null,
+            "last_commit": "2026-08-18T21:35:47Z",
+            "owner": "keon",
+            "repo": "awesome-nlp",
+            "stars": 18907
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ruby NLP Resources/Tools",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 32709807,
+            "language": null,
+            "last_commit": "2023-03-05T22:29:08Z",
+            "owner": "diasks2",
+            "repo": "ruby-nlp",
+            "stars": 1285
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@niderhoff NLP Datasets",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 54647141,
+            "language": null,
+            "last_commit": "2023-02-15T13:58:35Z",
+            "owner": "niderhoff",
+            "repo": "nlp-datasets",
+            "stars": 5995
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@karthikncode NLP Datasets",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 56541657,
+            "language": null,
+            "last_commit": "2020-01-04T22:32:03Z",
+            "owner": "karthikncode",
+            "repo": "nlp-datasets",
+            "stars": 917
+          }
+        }
+      ],
+      "title": "List of Lists of NLP Resources/Tools"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-19T04:41:45.960Z",
+    "last_updated": "2026-08-19T12:20:39.937Z",
     "original_repository": "alvations/awesome-community-curated-nlp",
+    "original_repository_id": 85201994,
     "original_repository_sha": "6f99bec72679bcd98a2f228d2f6065c4792ccb6b",
     "enhanced_repository": "enhansome/enhansome-community-curated-nlp",
     "enhanced_repository_description": null,
