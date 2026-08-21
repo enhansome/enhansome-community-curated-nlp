@@ -15,7 +15,7 @@
             "last_commit": "2026-08-20T04:34:52Z",
             "owner": "nltk",
             "repo": "nltk",
-            "stars": 14699
+            "stars": 14701
           }
         },
         {
@@ -93,7 +93,7 @@
                 "last_commit": "2026-04-01T18:55:05Z",
                 "owner": "roshan-research",
                 "repo": "hazm",
-                "stars": 1417
+                "stars": 1416
               }
             }
           ]
@@ -506,7 +506,7 @@
             "last_commit": "2026-08-18T21:35:47Z",
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 18909
+            "stars": 18917
           }
         },
         {
@@ -559,7 +559,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T04:42:08.276Z",
+    "last_updated": "2026-08-21T04:43:41.117Z",
     "original_repository": "alvations/awesome-community-curated-nlp",
     "original_repository_id": 85201994,
     "original_repository_sha": "6f99bec72679bcd98a2f228d2f6065c4792ccb6b",
