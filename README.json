@@ -71,7 +71,7 @@
                 "last_commit": "2020-01-19T02:39:05Z",
                 "owner": "isnowfy",
                 "repo": "snownlp",
-                "stars": 6633
+                "stars": 6632
               }
             }
           ]
@@ -506,7 +506,7 @@
             "last_commit": "2026-08-18T21:35:47Z",
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 18919
+            "stars": 18920
           }
         },
         {
@@ -559,7 +559,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T04:37:56.952Z",
+    "last_updated": "2026-08-23T04:42:10.957Z",
     "original_repository": "alvations/awesome-community-curated-nlp",
     "original_repository_id": 85201994,
     "original_repository_sha": "6f99bec72679bcd98a2f228d2f6065c4792ccb6b",
