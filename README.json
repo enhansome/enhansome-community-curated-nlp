@@ -12,7 +12,7 @@
             "archived": false,
             "id": 299862,
             "language": "Python",
-            "last_commit": "2026-08-24T04:28:39Z",
+            "last_commit": "2026-08-24T14:26:13Z",
             "owner": "nltk",
             "repo": "nltk",
             "stars": 14702
@@ -152,6 +152,55 @@
       "title": "Pre-processing (Tokenization / Stemming / POS Tagging / etc.)"
     },
     {
+      "description": "The deep here isn't \"deep learing\" deep ;P , see https://en.wikipedia.org/wiki/Deep_linguistic_processing",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Combinatory Categorial Grammar (CCG)",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CCG2PST",
+              "description": "A tool for converting CCG derivations into PTB-style phrase structure trees",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 40446464,
+                "language": "Python",
+                "last_commit": "2023-06-27T02:56:54Z",
+                "owner": "jkkummerfeld",
+                "repo": "berkeley-ccg2pst",
+                "stars": 11
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Deep Linguistic Processing"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "FastText",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 63484632,
+            "language": "HTML",
+            "last_commit": "2024-03-22T21:40:44Z",
+            "owner": "facebookresearch",
+            "repo": "fastText",
+            "stars": 26537
+          }
+        }
+      ],
+      "title": "Word Embeddings"
+    },
+    {
       "description": null,
       "items": [
         {
@@ -279,7 +328,7 @@
                 "last_commit": "2020-10-15T08:00:39Z",
                 "owner": "google",
                 "repo": "seq2seq",
-                "stars": 5619
+                "stars": 5618
               }
             },
             {
@@ -559,7 +608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T04:51:38.077Z",
+    "last_updated": "2026-08-24T14:32:02.344Z",
     "original_repository": "alvations/awesome-community-curated-nlp",
     "original_repository_id": 85201994,
     "original_repository_sha": "6f99bec72679bcd98a2f228d2f6065c4792ccb6b",

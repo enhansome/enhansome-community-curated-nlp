@@ -97,11 +97,11 @@ The *deep* here isn't *"deep learing"* deep ;P , see <https://en.wikipedia.org/w
 
 # Word Embeddings
 
+* [FastText](https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md) ⚠️ Archived
 * [Word2Vec](https://code.google.com/archive/p/word2vec/)
 * [GloVe](https://nlp.stanford.edu/projects/glove/)
 * [COMPOSE](http://clic.cimec.unitn.it/composes/semantic-vectors.html)
 * [Polyglot](http://polyglot.readthedocs.io/en/latest/)
-* [FastText](https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md) ⚠️ Archived
 
 # Twitter
 
