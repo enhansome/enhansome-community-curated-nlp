@@ -12,7 +12,7 @@
             "archived": false,
             "id": 299862,
             "language": "Python",
-            "last_commit": "2026-08-20T04:34:52Z",
+            "last_commit": "2026-08-24T04:28:39Z",
             "owner": "nltk",
             "repo": "nltk",
             "stars": 14702
@@ -71,7 +71,7 @@
                 "last_commit": "2020-01-19T02:39:05Z",
                 "owner": "isnowfy",
                 "repo": "snownlp",
-                "stars": 6632
+                "stars": 6633
               }
             }
           ]
@@ -506,7 +506,7 @@
             "last_commit": "2026-08-18T21:35:47Z",
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 18920
+            "stars": 18926
           }
         },
         {
@@ -536,7 +536,7 @@
             "last_commit": "2023-02-15T13:58:35Z",
             "owner": "niderhoff",
             "repo": "nlp-datasets",
-            "stars": 5995
+            "stars": 5994
           }
         },
         {
@@ -559,7 +559,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T04:42:10.957Z",
+    "last_updated": "2026-08-24T04:51:38.077Z",
     "original_repository": "alvations/awesome-community-curated-nlp",
     "original_repository_id": 85201994,
     "original_repository_sha": "6f99bec72679bcd98a2f228d2f6065c4792ccb6b",
