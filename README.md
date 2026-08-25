@@ -29,7 +29,7 @@
 
 # Text NLP Suites
 
-* [NLTK](https://github.com/nltk/nltk) ⭐ 14,702 | 🐛 228 | 🌐 Python | 📅 2026-08-24
+* [NLTK](https://github.com/nltk/nltk) ⭐ 14,702 | 🐛 231 | 🌐 Python | 📅 2026-08-24
 * [CogComp's NLP libraries](https://github.com/CogComp/cogcomp-nlp) ⭐ 479 | 🐛 200 | 🌐 Java | 📅 2023-07-07
 * [PyNLPl](https://github.com/proycon/pynlpl/) ⭐ 476 | 🐛 3 | 🌐 Python | 📅 2023-09-14
 * [Gensim](https://radimrehurek.com/gensim/)
