@@ -194,7 +194,7 @@
             "last_commit": "2024-03-22T21:40:44Z",
             "owner": "facebookresearch",
             "repo": "fastText",
-            "stars": 26537
+            "stars": 26536
           }
         }
       ],
@@ -343,7 +343,7 @@
                 "last_commit": "2023-08-25T22:31:09Z",
                 "owner": "marian-nmt",
                 "repo": "marian",
-                "stars": 1465
+                "stars": 1466
               }
             },
             {
@@ -555,7 +555,7 @@
             "last_commit": "2026-08-18T21:35:47Z",
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 18926
+            "stars": 18930
           }
         },
         {
@@ -585,7 +585,7 @@
             "last_commit": "2023-02-15T13:58:35Z",
             "owner": "niderhoff",
             "repo": "nlp-datasets",
-            "stars": 5994
+            "stars": 5995
           }
         },
         {
@@ -608,7 +608,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:32:02.344Z",
+    "last_updated": "2026-08-25T04:43:54.387Z",
     "original_repository": "alvations/awesome-community-curated-nlp",
     "original_repository_id": 85201994,
     "original_repository_sha": "6f99bec72679bcd98a2f228d2f6065c4792ccb6b",
