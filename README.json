@@ -12,11 +12,12 @@
             "archived": false,
             "id": 299862,
             "language": "Python",
-            "last_commit": "2026-08-26T14:54:22Z",
+            "last_commit": "2026-08-28T13:14:33Z",
             "owner": "nltk",
             "repo": "nltk",
-            "stars": 14704
-          }
+            "stars": 14705
+          },
+          "first_seen": "2026-08-28T16:28:15.066Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "CogComp",
             "repo": "cogcomp-nlp",
             "stars": 479
-          }
+          },
+          "first_seen": "2026-08-28T16:28:15.066Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "proycon",
             "repo": "pynlpl",
             "stars": 476
-          }
+          },
+          "first_seen": "2026-08-28T16:28:15.066Z"
         }
       ],
       "title": "Text NLP Suites"
@@ -71,8 +74,9 @@
                 "last_commit": "2020-01-19T02:39:05Z",
                 "owner": "isnowfy",
                 "repo": "snownlp",
-                "stars": 6634
-              }
+                "stars": 6633
+              },
+              "first_seen": "2026-08-28T16:28:15.066Z"
             }
           ]
         },
@@ -93,8 +97,9 @@
                 "last_commit": "2026-04-01T18:55:05Z",
                 "owner": "roshan-research",
                 "repo": "hazm",
-                "stars": 1417
-              }
+                "stars": 1420
+              },
+              "first_seen": "2026-08-28T16:28:15.066Z"
             }
           ]
         }
@@ -122,7 +127,8 @@
                 "owner": "nikolamilosevic86",
                 "repo": "SerbianStemmer",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T16:28:15.066Z"
             }
           ]
         },
@@ -144,7 +150,8 @@
                 "owner": "jonsafari",
                 "repo": "tok-tok",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T16:28:15.066Z"
             }
           ]
         }
@@ -172,7 +179,8 @@
                 "owner": "jkkummerfeld",
                 "repo": "berkeley-ccg2pst",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T16:28:15.066Z"
             }
           ]
         }
@@ -195,7 +203,8 @@
             "owner": "facebookresearch",
             "repo": "fastText",
             "stars": 26534
-          }
+          },
+          "first_seen": "2026-08-28T16:28:15.066Z"
         }
       ],
       "title": "Word Embeddings"
@@ -216,7 +225,8 @@
             "owner": "felipebravom",
             "repo": "AffectiveTweets",
             "stars": 82
-          }
+          },
+          "first_seen": "2026-08-28T16:28:15.066Z"
         },
         {
           "node_type": "item",
@@ -231,7 +241,8 @@
             "owner": "Reflejo",
             "repo": "pytweet",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T16:28:15.066Z"
         }
       ],
       "title": "Twitter"
@@ -257,7 +268,8 @@
                 "owner": "valeriobasile",
                 "repo": "learningbyreading",
                 "stars": 86
-              }
+              },
+              "first_seen": "2026-08-28T16:28:15.066Z"
             }
           ]
         },
@@ -279,7 +291,8 @@
                 "owner": "jkkummerfeld",
                 "repo": "berkeley-coreference-analyser",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T16:28:15.066Z"
             }
           ]
         },
@@ -301,7 +314,8 @@
                 "owner": "jkkummerfeld",
                 "repo": "berkeley-parser-analyser",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-28T16:28:15.066Z"
             }
           ]
         }
@@ -329,7 +343,8 @@
                 "owner": "google",
                 "repo": "seq2seq",
                 "stars": 5618
-              }
+              },
+              "first_seen": "2026-08-28T16:28:15.066Z"
             },
             {
               "node_type": "item",
@@ -344,7 +359,8 @@
                 "owner": "marian-nmt",
                 "repo": "marian",
                 "stars": 1469
-              }
+              },
+              "first_seen": "2026-08-28T16:28:15.066Z"
             },
             {
               "node_type": "item",
@@ -359,7 +375,8 @@
                 "owner": "alex-berard",
                 "repo": "seq2seq",
                 "stars": 388
-              }
+              },
+              "first_seen": "2026-08-28T16:28:15.066Z"
             }
           ]
         },
@@ -381,7 +398,8 @@
                 "owner": "jonsafari",
                 "repo": "nmt-list",
                 "stars": 364
-              }
+              },
+              "first_seen": "2026-08-28T16:28:15.066Z"
             }
           ]
         }
@@ -409,7 +427,8 @@
                 "owner": "proycon",
                 "repo": "flat",
                 "stars": 113
-              }
+              },
+              "first_seen": "2026-08-28T16:28:15.066Z"
             }
           ]
         },
@@ -431,7 +450,8 @@
                 "owner": "nikolamilosevic86",
                 "repo": "TableDisentangler",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T16:28:15.066Z"
             },
             {
               "node_type": "item",
@@ -446,7 +466,8 @@
                 "owner": "nikolamilosevic86",
                 "repo": "Marvin",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T16:28:15.066Z"
             }
           ]
         }
@@ -474,7 +495,8 @@
                 "owner": "evllabs",
                 "repo": "JGAAP",
                 "stars": 284
-              }
+              },
+              "first_seen": "2026-08-28T16:28:15.066Z"
             }
           ]
         },
@@ -496,7 +518,8 @@
                 "owner": "proycon",
                 "repo": "gecco",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T16:28:15.066Z"
             },
             {
               "node_type": "item",
@@ -511,7 +534,8 @@
                 "owner": "alvations",
                 "repo": "charguana",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T16:28:15.066Z"
             }
           ]
         },
@@ -533,7 +557,8 @@
                 "owner": "LanguageMachines",
                 "repo": "LuigiNLP",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T16:28:15.066Z"
             }
           ]
         }
@@ -555,8 +580,9 @@
             "last_commit": "2026-08-18T21:35:47Z",
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 18936
-          }
+            "stars": 18938
+          },
+          "first_seen": "2026-08-28T16:28:15.066Z"
         },
         {
           "node_type": "item",
@@ -571,7 +597,8 @@
             "owner": "diasks2",
             "repo": "ruby-nlp",
             "stars": 1285
-          }
+          },
+          "first_seen": "2026-08-28T16:28:15.066Z"
         },
         {
           "node_type": "item",
@@ -586,7 +613,8 @@
             "owner": "niderhoff",
             "repo": "nlp-datasets",
             "stars": 5995
-          }
+          },
+          "first_seen": "2026-08-28T16:28:15.066Z"
         },
         {
           "node_type": "item",
@@ -601,14 +629,15 @@
             "owner": "karthikncode",
             "repo": "nlp-datasets",
             "stars": 917
-          }
+          },
+          "first_seen": "2026-08-28T16:28:15.066Z"
         }
       ],
       "title": "List of Lists of NLP Resources/Tools"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T15:04:39.611Z",
+    "last_updated": "2026-08-28T16:28:15.066Z",
     "original_repository_info": {
       "archived": false,
       "id": 85201994,
