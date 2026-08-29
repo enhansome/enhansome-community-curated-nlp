@@ -10,12 +10,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NLTK Source",
+            "homepage": "https://www.nltk.org",
             "id": 299862,
             "language": "Python",
-            "last_commit": "2026-08-28T13:14:33Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T18:50:06Z",
+            "open_issues": 242,
             "owner": "nltk",
             "repo": "nltk",
-            "stars": 14705
+            "stars": 14706,
+            "topics": [
+              "machine-learning",
+              "natural-language-processing",
+              "nlp",
+              "nltk",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T16:28:15.066Z"
         },
@@ -26,12 +37,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CogComp's Natural Language Processing Libraries and Demos: Modules include lemmatizer, ner, pos, prep-srl, quantifier, question type, relation-extraction, similarity, temporal normalizer, tokenizer, transliteration, verb-sense, and more.",
+            "homepage": "http://nlp.cogcomp.org/",
             "id": 44465166,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2023-07-07T21:55:54Z",
+            "open_issues": 200,
             "owner": "CogComp",
             "repo": "cogcomp-nlp",
-            "stars": 479
+            "stars": 479,
+            "topics": [
+              "big-data",
+              "cogcomp",
+              "data-mining",
+              "dependency-parsing",
+              "lemmatization",
+              "lemmatizer",
+              "named-entity-recognition",
+              "natural-language-processing",
+              "natural-language-understanding",
+              "ner",
+              "nlp",
+              "parts-of-speech-tagging",
+              "pos",
+              "pos-tagging",
+              "relation-extraction",
+              "similarity",
+              "tokenizer",
+              "transliteration"
+            ]
           },
           "first_seen": "2026-08-28T16:28:15.066Z"
         },
@@ -42,12 +77,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PyNLPl, pronounced as 'pineapple', is a Python library for Natural Language Processing. It contains various modules useful for common, and less common, NLP tasks. PyNLPl can be used for basic tasks such as the extraction of n-grams and frequency lists, and to build simple language model. There are also more complex data types and algorithms. Moreover, there are parsers for file formats common in NLP (e.g. FoLiA/Giza/Moses/ARPA/Timbl/CQL). There are also clients to interface with various NLP specific servers. PyNLPl most notably features a very extensive library for working with FoLiA XML (Format for Linguistic Annotation).",
+            "homepage": "https://pypi.python.org/pypi/PyNLPl",
             "id": 759484,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2023-09-14T12:24:10Z",
+            "open_issues": 3,
             "owner": "proycon",
             "repo": "pynlpl",
-            "stars": 476
+            "stars": 476,
+            "topics": [
+              "computational-linguistics",
+              "evaluation-metrics",
+              "folia",
+              "language-modelling",
+              "library",
+              "linguistics",
+              "machine-learning",
+              "natural-language-processing",
+              "nlp",
+              "nlp-library",
+              "python",
+              "search-algorithms",
+              "text-processing"
+            ]
           },
           "first_seen": "2026-08-28T16:28:15.066Z"
         }
@@ -69,12 +123,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python library for processing Chinese text",
+                "homepage": null,
                 "id": 14715502,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-01-19T02:39:05Z",
+                "open_issues": 44,
                 "owner": "isnowfy",
                 "repo": "snownlp",
-                "stars": 6633
+                "stars": 6633,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:28:15.066Z"
             }
@@ -92,12 +151,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Persian NLP Toolkit",
+                "homepage": "https://www.roshan-ai.ir/hazm/",
                 "id": 13956112,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-01T18:55:05Z",
+                "open_issues": 8,
                 "owner": "roshan-research",
                 "repo": "hazm",
-                "stars": 1420
+                "stars": 1420,
+                "topics": [
+                  "dependency-parser",
+                  "embeddings",
+                  "farsi",
+                  "lemmatization",
+                  "natural-language-processing",
+                  "nlp",
+                  "normalization",
+                  "persian",
+                  "persian-nlp",
+                  "pos-tagging",
+                  "python",
+                  "text-processing",
+                  "tokenizer"
+                ]
               },
               "first_seen": "2026-08-28T16:28:15.066Z"
             }
@@ -121,12 +199,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Stemmer for serbian language created for my master thesis, rewritten in python",
+                "homepage": "http://nikolamilosevic86.github.io/SerbianStemmer",
                 "id": 35212845,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-09-06T13:56:30Z",
+                "open_issues": 2,
                 "owner": "nikolamilosevic86",
                 "repo": "SerbianStemmer",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "natural-language-processing",
+                  "python",
+                  "serbian-language",
+                  "stemmer"
+                ]
               },
               "first_seen": "2026-08-28T16:28:15.066Z"
             }
@@ -144,12 +232,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A fast, simple, multilingual tokenizer",
+                "homepage": null,
                 "id": 31475681,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2017-05-24T18:48:00Z",
+                "open_issues": 1,
                 "owner": "jonsafari",
                 "repo": "tok-tok",
-                "stars": 29
+                "stars": 29,
+                "topics": [
+                  "multilingual",
+                  "nlp",
+                  "tokeniser",
+                  "tokenizer"
+                ]
               },
               "first_seen": "2026-08-28T16:28:15.066Z"
             }
@@ -173,12 +271,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tool for converting CCG derivations into PTB-style phrase structure trees",
+                "homepage": null,
                 "id": 40446464,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-06-27T02:56:54Z",
+                "open_issues": 0,
                 "owner": "jkkummerfeld",
                 "repo": "berkeley-ccg2pst",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "ccg",
+                  "natural-language-processing",
+                  "nlp",
+                  "nlp-parsing",
+                  "phrase-structure-tree",
+                  "python",
+                  "syntax"
+                ]
               },
               "first_seen": "2026-08-28T16:28:15.066Z"
             }
@@ -197,12 +308,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Library for fast text representation and classification.",
+            "homepage": "https://fasttext.cc/",
             "id": 63484632,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2024-03-22T21:40:44Z",
+            "open_issues": 554,
             "owner": "facebookresearch",
             "repo": "fastText",
-            "stars": 26534
+            "stars": 26534,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:28:15.066Z"
         }
@@ -219,12 +335,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A WEKA package for analyzing emotion and sentiment of tweets.",
+            "homepage": "https://affectivetweets.cms.waikato.ac.nz/",
             "id": 72379277,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2025-06-06T01:10:50Z",
+            "open_issues": 0,
             "owner": "felipebravom",
             "repo": "AffectiveTweets",
-            "stars": 82
+            "stars": 82,
+            "topics": [
+              "cmu-tweet-nlp",
+              "emotion",
+              "lexicon",
+              "sentiment",
+              "tweets",
+              "weka"
+            ]
           },
           "first_seen": "2026-08-28T16:28:15.066Z"
         },
@@ -235,12 +363,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[old] A pythonic library that provides a beautiful simple interface to the Twitter API.",
+            "homepage": null,
             "id": 5013893,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2012-07-13T03:48:18Z",
+            "open_issues": 0,
             "owner": "Reflejo",
             "repo": "pytweet",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:28:15.066Z"
         }
@@ -262,12 +395,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Learning by Reading pipeline of NLP and Entity Linking tools",
+                "homepage": null,
                 "id": 45027816,
                 "language": "C",
+                "license": "GPL-2.0",
                 "last_commit": "2022-12-08T10:53:32Z",
+                "open_issues": 14,
                 "owner": "valeriobasile",
                 "repo": "learningbyreading",
-                "stars": 86
+                "stars": 86,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:28:15.066Z"
             }
@@ -285,12 +423,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tool for classifying errors in coreference resolution",
+                "homepage": null,
                 "id": 40446442,
                 "language": "Python",
+                "license": "ISC",
                 "last_commit": "2023-06-27T03:05:03Z",
+                "open_issues": 0,
                 "owner": "jkkummerfeld",
                 "repo": "berkeley-coreference-analyser",
-                "stars": 29
+                "stars": 29,
+                "topics": [
+                  "classifies-errors",
+                  "coreference",
+                  "coreference-resolution",
+                  "error-analysis",
+                  "natural-language-processing",
+                  "nlp",
+                  "python",
+                  "visualisation",
+                  "visualization",
+                  "visualizer"
+                ]
               },
               "first_seen": "2026-08-28T16:28:15.066Z"
             }
@@ -308,12 +462,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tool for classifying mistakes in the output of parsers",
+                "homepage": null,
                 "id": 40446455,
                 "language": "Python",
+                "license": "ISC",
                 "last_commit": "2023-06-27T03:02:09Z",
+                "open_issues": 4,
                 "owner": "jkkummerfeld",
                 "repo": "berkeley-parser-analyser",
-                "stars": 40
+                "stars": 40,
+                "topics": [
+                  "classifies-errors",
+                  "error-analysis",
+                  "natural-language-processing",
+                  "nlp",
+                  "parse",
+                  "phrase-structure-tree",
+                  "python",
+                  "syntax",
+                  "visualisation",
+                  "visualization",
+                  "visualizer"
+                ]
               },
               "first_seen": "2026-08-28T16:28:15.066Z"
             }
@@ -337,12 +508,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A general-purpose encoder-decoder framework for Tensorflow",
+                "homepage": "https://google.github.io/seq2seq/",
                 "id": 83732806,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2020-10-15T08:00:39Z",
+                "open_issues": 198,
                 "owner": "google",
                 "repo": "seq2seq",
-                "stars": 5618
+                "stars": 5618,
+                "topics": [
+                  "deeplearning",
+                  "machine-translation",
+                  "neural-network",
+                  "tensorflow",
+                  "translation"
+                ]
               },
               "first_seen": "2026-08-28T16:28:15.066Z"
             },
@@ -353,12 +535,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast Neural Machine Translation in C++",
+                "homepage": "https://marian-nmt.github.io",
                 "id": 56228491,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2023-08-25T22:31:09Z",
+                "open_issues": 97,
                 "owner": "marian-nmt",
                 "repo": "marian",
-                "stars": 1469
+                "stars": 1469,
+                "topics": [
+                  "cuda",
+                  "fast",
+                  "gpu",
+                  "neural-machine-translation"
+                ]
               },
               "first_seen": "2026-08-28T16:28:15.066Z"
             },
@@ -369,12 +561,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Attention-based sequence to sequence learning",
+                "homepage": null,
                 "id": 53953906,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2019-05-09T09:06:10Z",
+                "open_issues": 6,
                 "owner": "alex-berard",
                 "repo": "seq2seq",
-                "stars": 388
+                "stars": 388,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:28:15.066Z"
             }
@@ -392,12 +589,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A list of Neural MT implementations",
+                "homepage": null,
                 "id": 67118710,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2022-07-27T04:23:42Z",
+                "open_issues": 3,
                 "owner": "jonsafari",
                 "repo": "nmt-list",
-                "stars": 364
+                "stars": 364,
+                "topics": [
+                  "deep-learning",
+                  "machine-translation",
+                  "mt",
+                  "neural-machine-translation",
+                  "nmt",
+                  "sequence-to-sequence"
+                ]
               },
               "first_seen": "2026-08-28T16:28:15.066Z"
             }
@@ -421,12 +630,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FoLiA Linguistic Annotation Tool -- Flat is a web-based linguistic annotation environment based around the FoLiA format (http://proycon.github.io/folia), a rich XML-based format for linguistic annotation. Flat allows users to view annotated FoLiA documents and enrich these documents with new annotations, a wide variety of linguistic annotation types is supported through the FoLiA paradigm.",
+                "homepage": null,
                 "id": 15584383,
                 "language": "JavaScript",
+                "license": "GPL-3.0",
                 "last_commit": "2025-01-24T15:47:58Z",
+                "open_issues": 37,
                 "owner": "proycon",
                 "repo": "flat",
-                "stars": 113
+                "stars": 113,
+                "topics": [
+                  "annotation-tool",
+                  "clariah",
+                  "clarin",
+                  "computational-linguistics",
+                  "folia",
+                  "javascript",
+                  "linguistic-annotation-framework",
+                  "linguistics",
+                  "nlp",
+                  "python",
+                  "web-application"
+                ]
               },
               "first_seen": "2026-08-28T16:28:15.066Z"
             }
@@ -444,12 +670,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Functional and structural analysis of tables in research papers (Table disentangling)",
+                "homepage": null,
                 "id": 18963161,
                 "language": "Java",
+                "license": "GPL-3.0",
                 "last_commit": "2017-08-07T11:35:49Z",
+                "open_issues": 1,
                 "owner": "nikolamilosevic86",
                 "repo": "TableDisentangler",
-                "stars": 21
+                "stars": 21,
+                "topics": [
+                  "annotating-tables",
+                  "database",
+                  "information-extraction",
+                  "schema-matching",
+                  "table-mining",
+                  "text-mining",
+                  "xml-parsing"
+                ]
               },
               "first_seen": "2026-08-28T16:28:15.066Z"
             },
@@ -460,12 +699,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Semantic text annotation tools using Wordnet and DBPedia",
+                "homepage": " http://nikolamilosevic86.github.io/Marvin",
                 "id": 36808326,
                 "language": "Java",
+                "license": "LGPL-3.0",
                 "last_commit": "2017-12-14T12:49:40Z",
+                "open_issues": 0,
                 "owner": "nikolamilosevic86",
                 "repo": "Marvin",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:28:15.066Z"
             }
@@ -489,12 +733,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Java Graphical Authorship Attribution Program",
+                "homepage": "http://www.evllabs.com",
                 "id": 2344488,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2026-03-18T19:40:06Z",
+                "open_issues": 30,
                 "owner": "evllabs",
                 "repo": "JGAAP",
-                "stars": 284
+                "stars": 284,
+                "topics": [
+                  "authorship-attribution",
+                  "java",
+                  "machine-learning",
+                  "machine-learning-library",
+                  "stylometry"
+                ]
               },
               "first_seen": "2026-08-28T16:28:15.066Z"
             }
@@ -512,12 +767,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Generic Environment for Context-Aware Correction of Orthography",
+                "homepage": null,
                 "id": 28971190,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2022-09-07T12:27:37Z",
+                "open_issues": 5,
                 "owner": "proycon",
                 "repo": "gecco",
-                "stars": 24
+                "stars": 24,
+                "topics": [
+                  "nlp",
+                  "python",
+                  "spelling-correction"
+                ]
               },
               "first_seen": "2026-08-28T16:28:15.066Z"
             },
@@ -528,12 +792,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Character  Vomiting",
+                "homepage": null,
                 "id": 73774282,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-17T12:20:13Z",
+                "open_issues": 2,
                 "owner": "alvations",
                 "repo": "charguana",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "cjk",
+                  "python3",
+                  "unicode"
+                ]
               },
               "first_seen": "2026-08-28T16:28:15.066Z"
             }
@@ -551,12 +824,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A workflow system for Natural Language Processing.",
+                "homepage": null,
                 "id": 58048606,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2019-10-17T14:26:11Z",
+                "open_issues": 1,
                 "owner": "LanguageMachines",
                 "repo": "LuigiNLP",
-                "stars": 21
+                "stars": 21,
+                "topics": [
+                  "natural-language-processing",
+                  "nlp",
+                  "workflow-management-system"
+                ]
               },
               "first_seen": "2026-08-28T16:28:15.066Z"
             }
@@ -575,12 +857,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":book: A curated list of resources dedicated to Natural Language Processing (NLP)",
+            "homepage": null,
             "id": 47184304,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-08-18T21:35:47Z",
+            "open_issues": 15,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 18938
+            "stars": 18940,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "deep-learning",
+              "language",
+              "machine-learning",
+              "natural-language-processing",
+              "nlp",
+              "text-mining"
+            ]
           },
           "first_seen": "2026-08-28T16:28:15.066Z"
         },
@@ -591,12 +887,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of links to Ruby Natural Language Processing (NLP) libraries, tools and software",
+            "homepage": null,
             "id": 32709807,
             "language": null,
+            "license": null,
             "last_commit": "2023-03-05T22:29:08Z",
+            "open_issues": 2,
             "owner": "diasks2",
             "repo": "ruby-nlp",
-            "stars": 1285
+            "stars": 1285,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:28:15.066Z"
         },
@@ -607,12 +908,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Alphabetical list of free/public domain datasets with text data for use in Natural Language Processing (NLP)",
+            "homepage": null,
             "id": 54647141,
             "language": null,
+            "license": null,
             "last_commit": "2023-02-15T13:58:35Z",
+            "open_issues": 12,
             "owner": "niderhoff",
             "repo": "nlp-datasets",
-            "stars": 5995
+            "stars": 5995,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:28:15.066Z"
         },
@@ -623,12 +929,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of datasets/corpora for NLP tasks, in reverse chronological order. ",
+            "homepage": null,
             "id": 56541657,
             "language": null,
+            "license": null,
             "last_commit": "2020-01-04T22:32:03Z",
+            "open_issues": 5,
             "owner": "karthikncode",
             "repo": "nlp-datasets",
-            "stars": 917
+            "stars": 917,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:28:15.066Z"
         }
@@ -637,15 +948,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T16:28:15.066Z",
+    "last_updated": "2026-08-29T04:51:59.900Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Community Curated NLP List",
+      "homepage": null,
       "id": 85201994,
       "language": null,
+      "license": null,
       "last_commit": "2022-07-25T09:07:59Z",
+      "open_issues": 0,
       "owner": "alvations",
       "repo": "awesome-community-curated-nlp",
-      "stars": 202
+      "stars": 202,
+      "topics": [
+        "awesome-list",
+        "community-driven",
+        "nlp"
+      ]
     },
     "original_repository_sha": "6f99bec72679bcd98a2f228d2f6065c4792ccb6b",
     "enhanced_repository": "enhansome/enhansome-community-curated-nlp",
