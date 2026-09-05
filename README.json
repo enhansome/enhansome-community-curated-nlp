@@ -15,8 +15,8 @@
             "id": 299862,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-03T19:18:18Z",
-            "open_issues": 234,
+            "last_commit": "2026-09-04T18:53:38Z",
+            "open_issues": 235,
             "owner": "nltk",
             "repo": "nltk",
             "stars": 14706,
@@ -544,7 +544,7 @@
                 "open_issues": 97,
                 "owner": "marian-nmt",
                 "repo": "marian",
-                "stars": 1471,
+                "stars": 1470,
                 "topics": [
                   "cuda",
                   "fast",
@@ -866,7 +866,7 @@
             "open_issues": 17,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 18964,
+            "stars": 18965,
             "topics": [
               "awesome",
               "awesome-list",
@@ -948,7 +948,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T08:43:25.386Z",
+    "last_updated": "2026-09-05T08:14:10.338Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community Curated NLP List",
