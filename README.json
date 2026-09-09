@@ -15,8 +15,8 @@
             "id": 299862,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-08T03:57:36Z",
-            "open_issues": 241,
+            "last_commit": "2026-09-09T04:49:36Z",
+            "open_issues": 242,
             "owner": "nltk",
             "repo": "nltk",
             "stars": 14711,
@@ -160,7 +160,7 @@
                 "open_issues": 9,
                 "owner": "roshan-research",
                 "repo": "hazm",
-                "stars": 1421,
+                "stars": 1420,
                 "topics": [
                   "dependency-parser",
                   "embeddings",
@@ -948,7 +948,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T08:45:38.902Z",
+    "last_updated": "2026-09-09T08:51:44.821Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community Curated NLP List",
