@@ -29,7 +29,7 @@
 
 # Text NLP Suites
 
-* [NLTK](https://github.com/nltk/nltk) ⭐ 14,713 | 🐛 246 | 🌐 Python | 📅 2026-09-09
+* [NLTK](https://github.com/nltk/nltk) ⭐ 14,714 | 🐛 248 | 🌐 Python | 📅 2026-09-09
 * [CogComp's NLP libraries](https://github.com/CogComp/cogcomp-nlp) ⭐ 479 | 🐛 200 | 🌐 Java | 📅 2023-07-07
 * [PyNLPl](https://github.com/proycon/pynlpl/) ⭐ 476 | 🐛 3 | 🌐 Python | 📅 2023-09-14
 * [Gensim](https://radimrehurek.com/gensim/)
@@ -55,10 +55,10 @@
   * [PyCantonese](http://pycantonese.org/): Cantonese Linguistics and NLP in Python
 
 * Chinese
-  * [SnowNLP](https://github.com/isnowfy/snownlp) ⭐ 6,630 | 🐛 44 | 🌐 Python | 📅 2020-01-19: Simplified Chinese Text Processing
+  * [SnowNLP](https://github.com/isnowfy/snownlp) ⭐ 6,631 | 🐛 44 | 🌐 Python | 📅 2020-01-19: Simplified Chinese Text Processing
 
 * Persian
-  * [Hazm](https://github.com/sobhe/hazm) ⭐ 1,420 | 🐛 9 | 🌐 Python | 📅 2026-04-01: Python library for digesting Persian text.
+  * [Hazm](https://github.com/sobhe/hazm) ⭐ 1,421 | 🐛 9 | 🌐 Python | 📅 2026-04-01: Python library for digesting Persian text.
 
 * Dutch
   * [Frog](https://languagemachines.github.io/frog): An advanced NLP suite for Dutch
@@ -125,7 +125,7 @@ The *deep* here isn't *"deep learing"* deep ;P , see <https://en.wikipedia.org/w
 
 * Neural MT
   * [Google Seq2Seq](https://github.com/google/seq2seq) ⚠️ Archived
-  * [Amunmt](https://github.com/amunmt/amunmt) ⭐ 1,470 | 🐛 97 | 🌐 C++ | 📅 2023-08-25
+  * [Amunmt](https://github.com/amunmt/amunmt) ⭐ 1,471 | 🐛 97 | 🌐 C++ | 📅 2023-08-25
   * [Eske Seq2seq](https://github.com/eske/seq2seq) ⭐ 388 | 🐛 6 | 🌐 Python | 📅 2019-05-09
   * [OpenNMT](http://opennmt.net/)
 
@@ -194,7 +194,7 @@ The *deep* here isn't *"deep learing"* deep ;P , see <https://en.wikipedia.org/w
 
 # List of Lists of NLP Resources/Tools
 
-* [Awesome NLP](https://github.com/keon/awesome-nlp) ⭐ 18,973 | 🐛 17 | 📅 2026-09-07 (The original one, curated by @keon and @outpark)
+* [Awesome NLP](https://github.com/keon/awesome-nlp) ⭐ 18,984 | 🐛 17 | 📅 2026-09-07 (The original one, curated by @keon and @outpark)
 * [Ruby NLP Resources/Tools](https://github.com/diasks2/ruby-nlp) ⭐ 1,285 | 🐛 2 | 📅 2023-03-05
 * [Repo tagged with `nlp` on Github.com](https://github.com/search?q=topic%3Anlp\&type=Repositories)
 * [Java or Python for NLP?](http://stackoverflow.com/questions/22904025/java-or-python-for-natural-language-processing)
@@ -218,4 +218,4 @@ The *deep* here isn't *"deep learing"* deep ;P , see <https://en.wikipedia.org/w
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._

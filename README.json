@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-09T10:20:19Z",
-            "open_issues": 246,
+            "open_issues": 248,
             "owner": "nltk",
             "repo": "nltk",
-            "stars": 14713,
+            "stars": 14714,
             "topics": [
               "machine-learning",
               "natural-language-processing",
@@ -132,7 +132,7 @@
                 "open_issues": 44,
                 "owner": "isnowfy",
                 "repo": "snownlp",
-                "stars": 6630,
+                "stars": 6631,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:28:15.066Z"
@@ -160,7 +160,7 @@
                 "open_issues": 9,
                 "owner": "roshan-research",
                 "repo": "hazm",
-                "stars": 1420,
+                "stars": 1421,
                 "topics": [
                   "dependency-parser",
                   "embeddings",
@@ -317,7 +317,7 @@
             "open_issues": 554,
             "owner": "facebookresearch",
             "repo": "fastText",
-            "stars": 26529,
+            "stars": 26530,
             "topics": []
           },
           "first_seen": "2026-08-28T16:28:15.066Z"
@@ -544,7 +544,7 @@
                 "open_issues": 97,
                 "owner": "marian-nmt",
                 "repo": "marian",
-                "stars": 1470,
+                "stars": 1471,
                 "topics": [
                   "cuda",
                   "fast",
@@ -866,7 +866,7 @@
             "open_issues": 17,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 18973,
+            "stars": 18984,
             "topics": [
               "awesome",
               "awesome-list",
@@ -948,7 +948,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T08:50:36.358Z",
+    "last_updated": "2026-09-11T08:47:57.760Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community Curated NLP List",
