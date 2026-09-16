@@ -15,7 +15,7 @@
   * [Festival](http://www.cstr.ed.ac.uk/projects/festival/)
   * [HTS](http://hts.sp.nitech.ac.jp)
   * [eSpeak](http://espeak.sourceforge.net)
-  * [Covarep](https://github.com/covarep/covarep) ⭐ 380 | 🐛 13 | 🌐 MATLAB | 📅 2020-07-27
+  * [Covarep](https://github.com/covarep/covarep) ⭐ 381 | 🐛 13 | 🌐 MATLAB | 📅 2020-07-27
   * [Free TTS](http://freetts.sourceforge.net/docs/index.php)
   * [Ekho](https://sites.google.com/site/readtextextension/home/announcements/ekho)
 
@@ -29,7 +29,7 @@
 
 # Text NLP Suites
 
-* [NLTK](https://github.com/nltk/nltk) ⭐ 14,717 | 🐛 253 | 🌐 Python | 📅 2026-09-13
+* [NLTK](https://github.com/nltk/nltk) ⭐ 14,716 | 🐛 255 | 🌐 Python | 📅 2026-09-16
 * [CogComp's NLP libraries](https://github.com/CogComp/cogcomp-nlp) ⭐ 479 | 🐛 200 | 🌐 Java | 📅 2023-07-07
 * [PyNLPl](https://github.com/proycon/pynlpl/) ⭐ 476 | 🐛 3 | 🌐 Python | 📅 2023-09-14
 * [Gensim](https://radimrehurek.com/gensim/)
@@ -58,7 +58,7 @@
   * [SnowNLP](https://github.com/isnowfy/snownlp) ⭐ 6,629 | 🐛 44 | 🌐 Python | 📅 2020-01-19: Simplified Chinese Text Processing
 
 * Persian
-  * [Hazm](https://github.com/sobhe/hazm) ⭐ 1,422 | 🐛 9 | 🌐 Python | 📅 2026-04-01: Python library for digesting Persian text.
+  * [Hazm](https://github.com/sobhe/hazm) ⭐ 1,423 | 🐛 9 | 🌐 Python | 📅 2026-04-01: Python library for digesting Persian text.
 
 * Dutch
   * [Frog](https://languagemachines.github.io/frog): An advanced NLP suite for Dutch
@@ -194,7 +194,7 @@ The *deep* here isn't *"deep learing"* deep ;P , see <https://en.wikipedia.org/w
 
 # List of Lists of NLP Resources/Tools
 
-* [Awesome NLP](https://github.com/keon/awesome-nlp) ⭐ 19,000 | 🐛 17 | 📅 2026-09-07 (The original one, curated by @keon and @outpark)
+* [Awesome NLP](https://github.com/keon/awesome-nlp) ⭐ 19,001 | 🐛 17 | 📅 2026-09-07 (The original one, curated by @keon and @outpark)
 * [Ruby NLP Resources/Tools](https://github.com/diasks2/ruby-nlp) ⭐ 1,285 | 🐛 2 | 📅 2023-03-05
 * [Repo tagged with `nlp` on Github.com](https://github.com/search?q=topic%3Anlp\&type=Repositories)
 * [Java or Python for NLP?](http://stackoverflow.com/questions/22904025/java-or-python-for-natural-language-processing)
@@ -218,4 +218,4 @@ The *deep* here isn't *"deep learing"* deep ;P , see <https://en.wikipedia.org/w
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
