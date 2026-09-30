@@ -29,7 +29,7 @@
 
 # Text NLP Suites
 
-* [NLTK](https://github.com/nltk/nltk) ⭐ 14,730 | 🐛 256 | 🌐 Python | 📅 2026-09-29
+* [NLTK](https://github.com/nltk/nltk) ⭐ 14,732 | 🐛 261 | 🌐 Python | 📅 2026-09-30
 * [CogComp's NLP libraries](https://github.com/CogComp/cogcomp-nlp) ⭐ 479 | 🐛 200 | 🌐 Java | 📅 2023-07-07
 * [PyNLPl](https://github.com/proycon/pynlpl/) ⭐ 476 | 🐛 3 | 🌐 Python | 📅 2023-09-14
 * [Gensim](https://radimrehurek.com/gensim/)
@@ -55,7 +55,7 @@
   * [PyCantonese](http://pycantonese.org/): Cantonese Linguistics and NLP in Python
 
 * Chinese
-  * [SnowNLP](https://github.com/isnowfy/snownlp) ⭐ 6,633 | 🐛 44 | 🌐 Python | 📅 2020-01-19: Simplified Chinese Text Processing
+  * [SnowNLP](https://github.com/isnowfy/snownlp) ⭐ 6,635 | 🐛 44 | 🌐 Python | 📅 2020-01-19: Simplified Chinese Text Processing
 
 * Persian
   * [Hazm](https://github.com/sobhe/hazm) ⭐ 1,428 | 🐛 8 | 🌐 Python | 📅 2026-04-01: Python library for digesting Persian text.
@@ -218,4 +218,4 @@ The *deep* here isn't *"deep learing"* deep ;P , see <https://en.wikipedia.org/w
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
