@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "NLTK",
-          "description": null,
+          "description": "nltk/nltk",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -19,7 +19,7 @@
             "open_issues": 251,
             "owner": "nltk",
             "repo": "nltk",
-            "stars": 14733,
+            "stars": 14731,
             "topics": [
               "machine-learning",
               "natural-language-processing",
@@ -33,7 +33,7 @@
         {
           "node_type": "item",
           "title": "CogComp's NLP libraries",
-          "description": null,
+          "description": "CogComp/cogcomp-nlp",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -73,7 +73,7 @@
         {
           "node_type": "item",
           "title": "PyNLPl",
-          "description": null,
+          "description": "proycon/pynlpl",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -132,7 +132,7 @@
                 "open_issues": 44,
                 "owner": "isnowfy",
                 "repo": "snownlp",
-                "stars": 6635,
+                "stars": 6634,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:28:15.066Z"
@@ -160,7 +160,7 @@
                 "open_issues": 8,
                 "owner": "roshan-research",
                 "repo": "hazm",
-                "stars": 1430,
+                "stars": 1429,
                 "topics": [
                   "dependency-parser",
                   "embeddings",
@@ -195,7 +195,7 @@
             {
               "node_type": "item",
               "title": "SerbianStemmer",
-              "description": null,
+              "description": "nikolamilosevic86/SerbianStemmer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -304,7 +304,7 @@
         {
           "node_type": "item",
           "title": "FastText",
-          "description": null,
+          "description": "facebookresearch/fastText",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -331,7 +331,7 @@
         {
           "node_type": "item",
           "title": "Affective Tweets",
-          "description": null,
+          "description": "felipebravom/AffectiveTweets",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -359,7 +359,7 @@
         {
           "node_type": "item",
           "title": "PyTweet",
-          "description": null,
+          "description": "Reflejo/pytweet",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -504,7 +504,7 @@
             {
               "node_type": "item",
               "title": "Google Seq2Seq",
-              "description": null,
+              "description": "google/seq2seq",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -531,7 +531,7 @@
             {
               "node_type": "item",
               "title": "Amunmt",
-              "description": null,
+              "description": "marian-nmt/marian",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -544,7 +544,7 @@
                 "open_issues": 97,
                 "owner": "marian-nmt",
                 "repo": "marian",
-                "stars": 1472,
+                "stars": 1473,
                 "topics": [
                   "cuda",
                   "fast",
@@ -557,7 +557,7 @@
             {
               "node_type": "item",
               "title": "Eske Seq2seq",
-              "description": null,
+              "description": "alex-berard/seq2seq",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -585,7 +585,7 @@
             {
               "node_type": "item",
               "title": "@jonsafari A list of Neural MT implementations",
-              "description": null,
+              "description": "jonsafari/nmt-list",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -729,7 +729,7 @@
             {
               "node_type": "item",
               "title": "Java Graphical Authorship Attribution Program",
-              "description": null,
+              "description": "evllabs/JGAAP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -863,10 +863,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-09-07T10:42:10Z",
-            "open_issues": 25,
+            "open_issues": 27,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 19047,
+            "stars": 19049,
             "topics": [
               "awesome",
               "awesome-list",
@@ -883,7 +883,7 @@
         {
           "node_type": "item",
           "title": "Ruby NLP Resources/Tools",
-          "description": null,
+          "description": "diasks2/ruby-nlp",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -904,7 +904,7 @@
         {
           "node_type": "item",
           "title": "@niderhoff NLP Datasets",
-          "description": null,
+          "description": "niderhoff/nlp-datasets",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -917,7 +917,7 @@
             "open_issues": 12,
             "owner": "niderhoff",
             "repo": "nlp-datasets",
-            "stars": 6002,
+            "stars": 6003,
             "topics": []
           },
           "first_seen": "2026-08-28T16:28:15.066Z"
@@ -925,7 +925,7 @@
         {
           "node_type": "item",
           "title": "@karthikncode NLP Datasets",
-          "description": null,
+          "description": "karthikncode/nlp-datasets",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -948,7 +948,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T10:23:45.594Z",
+    "last_updated": "2026-10-03T04:36:57.357Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community Curated NLP List",
