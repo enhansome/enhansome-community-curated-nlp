@@ -194,7 +194,7 @@ The *deep* here isn't *"deep learing"* deep ;P , see <https://en.wikipedia.org/w
 
 # List of Lists of NLP Resources/Tools
 
-* [Awesome NLP](https://github.com/keon/awesome-nlp) ⭐ 19,049 | 🐛 27 | 📅 2026-09-07 (The original one, curated by @keon and @outpark)
+* [Awesome NLP](https://github.com/keon/awesome-nlp) ⭐ 19,051 | 🐛 27 | 📅 2026-09-07 (The original one, curated by @keon and @outpark)
 * [Ruby NLP Resources/Tools](https://github.com/diasks2/ruby-nlp) ⭐ 1,284 | 🐛 2 | 📅 2023-03-05
 * [Repo tagged with `nlp` on Github.com](https://github.com/search?q=topic%3Anlp\&type=Repositories)
 * [Java or Python for NLP?](http://stackoverflow.com/questions/22904025/java-or-python-for-natural-language-processing)

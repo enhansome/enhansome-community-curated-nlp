@@ -866,7 +866,7 @@
             "open_issues": 27,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 19049,
+            "stars": 19051,
             "topics": [
               "awesome",
               "awesome-list",
@@ -948,7 +948,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:36:57.357Z",
+    "last_updated": "2026-10-03T09:46:03.729Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community Curated NLP List",
