@@ -19,7 +19,7 @@
             "open_issues": 214,
             "owner": "nltk",
             "repo": "nltk",
-            "stars": 14733,
+            "stars": 14735,
             "topics": [
               "machine-learning",
               "natural-language-processing",
@@ -863,10 +863,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-09-07T10:42:10Z",
-            "open_issues": 29,
+            "open_issues": 30,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 19062,
+            "stars": 19066,
             "topics": [
               "awesome",
               "awesome-list",
@@ -948,7 +948,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T10:56:39.537Z",
+    "last_updated": "2026-10-08T11:13:56.726Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community Curated NLP List",
