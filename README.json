@@ -15,7 +15,7 @@
             "id": 299862,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-13T05:12:12Z",
+            "last_commit": "2026-10-14T06:56:00Z",
             "open_issues": 219,
             "owner": "nltk",
             "repo": "nltk",
@@ -160,7 +160,7 @@
                 "open_issues": 8,
                 "owner": "roshan-research",
                 "repo": "hazm",
-                "stars": 1431,
+                "stars": 1432,
                 "topics": [
                   "dependency-parser",
                   "embeddings",
@@ -317,7 +317,7 @@
             "open_issues": 554,
             "owner": "facebookresearch",
             "repo": "fastText",
-            "stars": 26524,
+            "stars": 26525,
             "topics": []
           },
           "first_seen": "2026-08-28T16:28:15.066Z"
@@ -517,7 +517,7 @@
                 "open_issues": 198,
                 "owner": "google",
                 "repo": "seq2seq",
-                "stars": 5618,
+                "stars": 5619,
                 "topics": [
                   "deeplearning",
                   "machine-translation",
@@ -866,7 +866,7 @@
             "open_issues": 1,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 19071,
+            "stars": 19075,
             "topics": [
               "awesome",
               "awesome-list",
@@ -917,7 +917,7 @@
             "open_issues": 12,
             "owner": "niderhoff",
             "repo": "nlp-datasets",
-            "stars": 6002,
+            "stars": 6003,
             "topics": []
           },
           "first_seen": "2026-08-28T16:28:15.066Z"
@@ -948,7 +948,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T11:34:56.071Z",
+    "last_updated": "2026-10-14T09:23:40.155Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community Curated NLP List",
