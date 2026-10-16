@@ -15,11 +15,11 @@
             "id": 299862,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-15T07:37:35Z",
-            "open_issues": 221,
+            "last_commit": "2026-10-16T05:29:10Z",
+            "open_issues": 225,
             "owner": "nltk",
             "repo": "nltk",
-            "stars": 14737,
+            "stars": 14739,
             "topics": [
               "machine-learning",
               "natural-language-processing",
@@ -866,7 +866,7 @@
             "open_issues": 2,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 19076,
+            "stars": 19078,
             "topics": [
               "awesome",
               "awesome-list",
@@ -938,7 +938,7 @@
             "open_issues": 5,
             "owner": "karthikncode",
             "repo": "nlp-datasets",
-            "stars": 919,
+            "stars": 918,
             "topics": []
           },
           "first_seen": "2026-08-28T16:28:15.066Z"
@@ -948,7 +948,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T09:01:49.501Z",
+    "last_updated": "2026-10-16T08:53:58.994Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community Curated NLP List",
