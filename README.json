@@ -15,11 +15,11 @@
             "id": 299862,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-17T17:18:57Z",
-            "open_issues": 221,
+            "last_commit": "2026-10-19T08:40:50Z",
+            "open_issues": 219,
             "owner": "nltk",
             "repo": "nltk",
-            "stars": 14742,
+            "stars": 14743,
             "topics": [
               "machine-learning",
               "natural-language-processing",
@@ -160,7 +160,7 @@
                 "open_issues": 8,
                 "owner": "roshan-research",
                 "repo": "hazm",
-                "stars": 1433,
+                "stars": 1432,
                 "topics": [
                   "dependency-parser",
                   "embeddings",
@@ -317,7 +317,7 @@
             "open_issues": 554,
             "owner": "facebookresearch",
             "repo": "fastText",
-            "stars": 26520,
+            "stars": 26518,
             "topics": []
           },
           "first_seen": "2026-08-28T16:28:15.066Z"
@@ -742,7 +742,7 @@
                 "open_issues": 30,
                 "owner": "evllabs",
                 "repo": "JGAAP",
-                "stars": 286,
+                "stars": 287,
                 "topics": [
                   "authorship-attribution",
                   "java",
@@ -866,7 +866,7 @@
             "open_issues": 2,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 19082,
+            "stars": 19087,
             "topics": [
               "awesome",
               "awesome-list",
@@ -948,7 +948,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T08:44:20.499Z",
+    "last_updated": "2026-10-19T09:44:43.058Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community Curated NLP List",
