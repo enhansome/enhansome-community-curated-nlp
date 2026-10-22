@@ -15,11 +15,11 @@
             "id": 299862,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-21T08:23:18Z",
-            "open_issues": 214,
+            "last_commit": "2026-10-21T12:37:02Z",
+            "open_issues": 215,
             "owner": "nltk",
             "repo": "nltk",
-            "stars": 14749,
+            "stars": 14751,
             "topics": [
               "machine-learning",
               "natural-language-processing",
@@ -83,7 +83,7 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2023-09-14T12:24:10Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "proycon",
             "repo": "pynlpl",
             "stars": 475,
@@ -129,7 +129,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2020-01-19T02:39:05Z",
-                "open_issues": 44,
+                "open_issues": 45,
                 "owner": "isnowfy",
                 "repo": "snownlp",
                 "stars": 6636,
@@ -160,7 +160,7 @@
                 "open_issues": 8,
                 "owner": "roshan-research",
                 "repo": "hazm",
-                "stars": 1430,
+                "stars": 1431,
                 "topics": [
                   "dependency-parser",
                   "embeddings",
@@ -317,7 +317,7 @@
             "open_issues": 554,
             "owner": "facebookresearch",
             "repo": "fastText",
-            "stars": 26521,
+            "stars": 26519,
             "topics": []
           },
           "first_seen": "2026-08-28T16:28:15.066Z"
@@ -544,7 +544,7 @@
                 "open_issues": 97,
                 "owner": "marian-nmt",
                 "repo": "marian",
-                "stars": 1474,
+                "stars": 1475,
                 "topics": [
                   "cuda",
                   "fast",
@@ -866,7 +866,7 @@
             "open_issues": 3,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 19092,
+            "stars": 19093,
             "topics": [
               "awesome",
               "awesome-list",
@@ -948,7 +948,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T09:14:40.020Z",
+    "last_updated": "2026-10-22T09:17:21.219Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community Curated NLP List",
