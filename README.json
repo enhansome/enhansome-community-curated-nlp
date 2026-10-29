@@ -15,11 +15,11 @@
             "id": 299862,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-27T13:23:36Z",
-            "open_issues": 219,
+            "last_commit": "2026-10-28T16:30:01Z",
+            "open_issues": 220,
             "owner": "nltk",
             "repo": "nltk",
-            "stars": 14760,
+            "stars": 14759,
             "topics": [
               "machine-learning",
               "natural-language-processing",
@@ -132,7 +132,7 @@
                 "open_issues": 45,
                 "owner": "isnowfy",
                 "repo": "snownlp",
-                "stars": 6636,
+                "stars": 6634,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:28:15.066Z"
@@ -317,7 +317,7 @@
             "open_issues": 554,
             "owner": "facebookresearch",
             "repo": "fastText",
-            "stars": 26516,
+            "stars": 26515,
             "topics": []
           },
           "first_seen": "2026-08-28T16:28:15.066Z"
@@ -742,7 +742,7 @@
                 "open_issues": 30,
                 "owner": "evllabs",
                 "repo": "JGAAP",
-                "stars": 287,
+                "stars": 288,
                 "topics": [
                   "authorship-attribution",
                   "java",
@@ -866,7 +866,7 @@
             "open_issues": 7,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 19105,
+            "stars": 19113,
             "topics": [
               "awesome",
               "awesome-list",
@@ -917,7 +917,7 @@
             "open_issues": 12,
             "owner": "niderhoff",
             "repo": "nlp-datasets",
-            "stars": 6005,
+            "stars": 6006,
             "topics": []
           },
           "first_seen": "2026-08-28T16:28:15.066Z"
@@ -948,7 +948,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T10:26:44.612Z",
+    "last_updated": "2026-10-29T10:46:57.981Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community Curated NLP List",
