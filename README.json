@@ -15,11 +15,11 @@
             "id": 299862,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-30T10:18:02Z",
+            "last_commit": "2026-10-30T23:46:15Z",
             "open_issues": 218,
             "owner": "nltk",
             "repo": "nltk",
-            "stars": 14760,
+            "stars": 14761,
             "topics": [
               "machine-learning",
               "natural-language-processing",
@@ -160,7 +160,7 @@
                 "open_issues": 10,
                 "owner": "roshan-research",
                 "repo": "hazm",
-                "stars": 1432,
+                "stars": 1433,
                 "topics": [
                   "dependency-parser",
                   "embeddings",
@@ -544,7 +544,7 @@
                 "open_issues": 97,
                 "owner": "marian-nmt",
                 "repo": "marian",
-                "stars": 1476,
+                "stars": 1477,
                 "topics": [
                   "cuda",
                   "fast",
@@ -863,10 +863,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-10-12T22:26:23Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 19114,
+            "stars": 19118,
             "topics": [
               "awesome",
               "awesome-list",
@@ -948,7 +948,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T10:46:17.195Z",
+    "last_updated": "2026-10-31T10:15:57.551Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community Curated NLP List",
