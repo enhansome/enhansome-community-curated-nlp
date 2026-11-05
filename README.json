@@ -15,8 +15,8 @@
             "id": 299862,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-02T11:57:04Z",
-            "open_issues": 227,
+            "last_commit": "2026-11-05T11:13:11Z",
+            "open_issues": 228,
             "owner": "nltk",
             "repo": "nltk",
             "stars": 14767,
@@ -132,7 +132,7 @@
                 "open_issues": 45,
                 "owner": "isnowfy",
                 "repo": "snownlp",
-                "stars": 6636,
+                "stars": 6637,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:28:15.066Z"
@@ -544,7 +544,7 @@
                 "open_issues": 97,
                 "owner": "marian-nmt",
                 "repo": "marian",
-                "stars": 1475,
+                "stars": 1476,
                 "topics": [
                   "cuda",
                   "fast",
@@ -866,7 +866,7 @@
             "open_issues": 9,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 19126,
+            "stars": 19129,
             "topics": [
               "awesome",
               "awesome-list",
@@ -917,7 +917,7 @@
             "open_issues": 12,
             "owner": "niderhoff",
             "repo": "nlp-datasets",
-            "stars": 6009,
+            "stars": 6011,
             "topics": []
           },
           "first_seen": "2026-08-28T16:28:15.066Z"
@@ -948,7 +948,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T11:57:17.414Z",
+    "last_updated": "2026-11-05T12:00:33.258Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community Curated NLP List",
