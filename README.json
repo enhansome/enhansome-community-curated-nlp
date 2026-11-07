@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-05T18:47:38Z",
-            "open_issues": 227,
+            "open_issues": 229,
             "owner": "nltk",
             "repo": "nltk",
-            "stars": 14768,
+            "stars": 14767,
             "topics": [
               "machine-learning",
               "natural-language-processing",
@@ -160,7 +160,7 @@
                 "open_issues": 10,
                 "owner": "roshan-research",
                 "repo": "hazm",
-                "stars": 1434,
+                "stars": 1435,
                 "topics": [
                   "dependency-parser",
                   "embeddings",
@@ -544,7 +544,7 @@
                 "open_issues": 97,
                 "owner": "marian-nmt",
                 "repo": "marian",
-                "stars": 1476,
+                "stars": 1477,
                 "topics": [
                   "cuda",
                   "fast",
@@ -863,10 +863,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-10-12T22:26:23Z",
-            "open_issues": 9,
+            "open_issues": 11,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 19135,
+            "stars": 19136,
             "topics": [
               "awesome",
               "awesome-list",
@@ -914,7 +914,7 @@
             "language": null,
             "license": null,
             "last_commit": "2023-02-15T13:58:35Z",
-            "open_issues": 12,
+            "open_issues": 13,
             "owner": "niderhoff",
             "repo": "nlp-datasets",
             "stars": 6011,
@@ -948,7 +948,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T11:56:49.960Z",
+    "last_updated": "2026-11-07T10:56:45.040Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community Curated NLP List",
