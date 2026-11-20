@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-16T23:29:22Z",
-            "open_issues": 229,
+            "open_issues": 232,
             "owner": "nltk",
             "repo": "nltk",
-            "stars": 14775,
+            "stars": 14776,
             "topics": [
               "machine-learning",
               "natural-language-processing",
@@ -86,7 +86,7 @@
             "open_issues": 4,
             "owner": "proycon",
             "repo": "pynlpl",
-            "stars": 475,
+            "stars": 474,
             "topics": [
               "computational-linguistics",
               "evaluation-metrics",
@@ -132,7 +132,7 @@
                 "open_issues": 45,
                 "owner": "isnowfy",
                 "repo": "snownlp",
-                "stars": 6640,
+                "stars": 6639,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:28:15.066Z"
@@ -160,7 +160,7 @@
                 "open_issues": 10,
                 "owner": "roshan-research",
                 "repo": "hazm",
-                "stars": 1436,
+                "stars": 1435,
                 "topics": [
                   "dependency-parser",
                   "embeddings",
@@ -208,7 +208,7 @@
                 "open_issues": 2,
                 "owner": "nikolamilosevic86",
                 "repo": "SerbianStemmer",
-                "stars": 18,
+                "stars": 17,
                 "topics": [
                   "natural-language-processing",
                   "python",
@@ -517,7 +517,7 @@
                 "open_issues": 198,
                 "owner": "google",
                 "repo": "seq2seq",
-                "stars": 5619,
+                "stars": 5618,
                 "topics": [
                   "deeplearning",
                   "machine-translation",
@@ -544,7 +544,7 @@
                 "open_issues": 97,
                 "owner": "marian-nmt",
                 "repo": "marian",
-                "stars": 1476,
+                "stars": 1475,
                 "topics": [
                   "cuda",
                   "fast",
@@ -863,10 +863,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-10-12T22:26:23Z",
-            "open_issues": 16,
+            "open_issues": 17,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 19173,
+            "stars": 19175,
             "topics": [
               "awesome",
               "awesome-list",
@@ -917,7 +917,7 @@
             "open_issues": 13,
             "owner": "niderhoff",
             "repo": "nlp-datasets",
-            "stars": 6012,
+            "stars": 6011,
             "topics": []
           },
           "first_seen": "2026-08-28T16:28:15.066Z"
@@ -948,7 +948,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T12:40:44.742Z",
+    "last_updated": "2026-11-20T12:39:23.273Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community Curated NLP List",
