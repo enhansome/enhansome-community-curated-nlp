@@ -16,7 +16,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-16T23:29:22Z",
-            "open_issues": 233,
+            "open_issues": 234,
             "owner": "nltk",
             "repo": "nltk",
             "stars": 14778,
@@ -132,7 +132,7 @@
                 "open_issues": 45,
                 "owner": "isnowfy",
                 "repo": "snownlp",
-                "stars": 6639,
+                "stars": 6638,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:28:15.066Z"
@@ -317,7 +317,7 @@
             "open_issues": 554,
             "owner": "facebookresearch",
             "repo": "fastText",
-            "stars": 26504,
+            "stars": 26502,
             "topics": []
           },
           "first_seen": "2026-08-28T16:28:15.066Z"
@@ -866,7 +866,7 @@
             "open_issues": 1,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 19177,
+            "stars": 19178,
             "topics": [
               "awesome",
               "awesome-list",
@@ -948,7 +948,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T12:19:55.458Z",
+    "last_updated": "2026-11-22T12:23:10.504Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community Curated NLP List",
