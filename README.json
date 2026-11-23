@@ -132,7 +132,7 @@
                 "open_issues": 45,
                 "owner": "isnowfy",
                 "repo": "snownlp",
-                "stars": 6638,
+                "stars": 6640,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:28:15.066Z"
@@ -866,7 +866,7 @@
             "open_issues": 1,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 19178,
+            "stars": 19180,
             "topics": [
               "awesome",
               "awesome-list",
@@ -948,7 +948,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T12:23:10.504Z",
+    "last_updated": "2026-11-23T14:14:19.482Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community Curated NLP List",
