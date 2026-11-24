@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-16T23:29:22Z",
-            "open_issues": 234,
+            "open_issues": 235,
             "owner": "nltk",
             "repo": "nltk",
-            "stars": 14778,
+            "stars": 14777,
             "topics": [
               "machine-learning",
               "natural-language-processing",
@@ -46,7 +46,7 @@
             "open_issues": 200,
             "owner": "CogComp",
             "repo": "cogcomp-nlp",
-            "stars": 479,
+            "stars": 480,
             "topics": [
               "big-data",
               "cogcomp",
@@ -132,7 +132,7 @@
                 "open_issues": 45,
                 "owner": "isnowfy",
                 "repo": "snownlp",
-                "stars": 6640,
+                "stars": 6639,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:28:15.066Z"
@@ -917,7 +917,7 @@
             "open_issues": 13,
             "owner": "niderhoff",
             "repo": "nlp-datasets",
-            "stars": 6011,
+            "stars": 6012,
             "topics": []
           },
           "first_seen": "2026-08-28T16:28:15.066Z"
@@ -948,7 +948,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T14:14:19.482Z",
+    "last_updated": "2026-11-24T14:40:24.035Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community Curated NLP List",
