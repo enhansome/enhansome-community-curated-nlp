@@ -29,7 +29,7 @@
 
 # Text NLP Suites
 
-* [NLTK](https://github.com/nltk/nltk) ⭐ 14,777 | 🐛 235 | 🌐 Python | 📅 2026-11-16
+* [NLTK](https://github.com/nltk/nltk) ⭐ 14,777 | 🐛 237 | 🌐 Python | 📅 2026-11-16
 * [CogComp's NLP libraries](https://github.com/CogComp/cogcomp-nlp) ⭐ 480 | 🐛 200 | 🌐 Java | 📅 2023-07-07
 * [PyNLPl](https://github.com/proycon/pynlpl/) ⭐ 474 | 🐛 4 | 🌐 Python | 📅 2023-09-14
 * [Gensim](https://radimrehurek.com/gensim/)
@@ -55,10 +55,10 @@
   * [PyCantonese](http://pycantonese.org/): Cantonese Linguistics and NLP in Python
 
 * Chinese
-  * [SnowNLP](https://github.com/isnowfy/snownlp) ⭐ 6,639 | 🐛 45 | 🌐 Python | 📅 2020-01-19: Simplified Chinese Text Processing
+  * [SnowNLP](https://github.com/isnowfy/snownlp) ⭐ 6,642 | 🐛 45 | 🌐 Python | 📅 2020-01-19: Simplified Chinese Text Processing
 
 * Persian
-  * [Hazm](https://github.com/sobhe/hazm) ⭐ 1,435 | 🐛 10 | 🌐 Python | 📅 2026-04-01: Python library for digesting Persian text.
+  * [Hazm](https://github.com/sobhe/hazm) ⭐ 1,436 | 🐛 10 | 🌐 Python | 📅 2026-04-01: Python library for digesting Persian text.
 
 * Dutch
   * [Frog](https://languagemachines.github.io/frog): An advanced NLP suite for Dutch
@@ -194,8 +194,8 @@ The *deep* here isn't *"deep learing"* deep ;P , see <https://en.wikipedia.org/w
 
 # List of Lists of NLP Resources/Tools
 
-* [Awesome NLP](https://github.com/keon/awesome-nlp) ⭐ 19,180 | 🐛 1 | 📅 2026-11-20 (The original one, curated by @keon and @outpark)
-* [Ruby NLP Resources/Tools](https://github.com/diasks2/ruby-nlp) ⭐ 1,285 | 🐛 2 | 📅 2023-03-05
+* [Awesome NLP](https://github.com/keon/awesome-nlp) ⭐ 19,182 | 🐛 2 | 📅 2026-11-20 (The original one, curated by @keon and @outpark)
+* [Ruby NLP Resources/Tools](https://github.com/diasks2/ruby-nlp) ⭐ 1,284 | 🐛 2 | 📅 2023-03-05
 * [Repo tagged with `nlp` on Github.com](https://github.com/search?q=topic%3Anlp\&type=Repositories)
 * [Java or Python for NLP?](http://stackoverflow.com/questions/22904025/java-or-python-for-natural-language-processing)
 * [OpenSource Deep QA Resources](https://docs.google.com/document/d/1XCHWQkgFBS8Iy_y9-1-R82jGS8T_CrKiMxleqpqtmJg/edit?usp=sharing) (also [nice talk](https://www.slideshare.net/jackpark/jst-talk-final))
@@ -218,4 +218,4 @@ The *deep* here isn't *"deep learing"* deep ;P , see <https://en.wikipedia.org/w
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
