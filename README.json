@@ -16,10 +16,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-11-16T23:29:22Z",
-            "open_issues": 237,
+            "open_issues": 238,
             "owner": "nltk",
             "repo": "nltk",
-            "stars": 14777,
+            "stars": 14775,
             "topics": [
               "machine-learning",
               "natural-language-processing",
@@ -132,7 +132,7 @@
                 "open_issues": 45,
                 "owner": "isnowfy",
                 "repo": "snownlp",
-                "stars": 6642,
+                "stars": 6644,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:28:15.066Z"
@@ -317,7 +317,7 @@
             "open_issues": 554,
             "owner": "facebookresearch",
             "repo": "fastText",
-            "stars": 26501,
+            "stars": 26500,
             "topics": []
           },
           "first_seen": "2026-08-28T16:28:15.066Z"
@@ -517,7 +517,7 @@
                 "open_issues": 198,
                 "owner": "google",
                 "repo": "seq2seq",
-                "stars": 5617,
+                "stars": 5618,
                 "topics": [
                   "deeplearning",
                   "machine-translation",
@@ -866,7 +866,7 @@
             "open_issues": 2,
             "owner": "keon",
             "repo": "awesome-nlp",
-            "stars": 19182,
+            "stars": 19184,
             "topics": [
               "awesome",
               "awesome-list",
@@ -914,10 +914,10 @@
             "language": null,
             "license": null,
             "last_commit": "2023-02-15T13:58:35Z",
-            "open_issues": 13,
+            "open_issues": 12,
             "owner": "niderhoff",
             "repo": "nlp-datasets",
-            "stars": 6012,
+            "stars": 6013,
             "topics": []
           },
           "first_seen": "2026-08-28T16:28:15.066Z"
@@ -948,7 +948,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T14:01:59.004Z",
+    "last_updated": "2026-11-26T13:40:53.957Z",
     "original_repository_info": {
       "archived": false,
       "description": "Community Curated NLP List",
